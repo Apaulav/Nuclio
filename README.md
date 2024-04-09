@@ -4,9 +4,9 @@
 
 ### Proyectos:
 
-1 | Maquetación
+[1 | Maquetación](https://github.com/Apaulav/Nuclio/tree/main/1_maquetaci%C3%B3n_spotify_premium)
 
-2 | Ejercicios Javascript
+[2 | Ejercicios Javascript](https://github.com/Apaulav/Nuclio/tree/main/2_ejercicios_javascript)
 
 3 | Calculadora simple
 
