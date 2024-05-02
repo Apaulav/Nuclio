@@ -8,9 +8,9 @@
 
 [2 | Ejercicios Javascript](https://github.com/Apaulav/Nuclio/tree/main/2_ejercicios_javascript)
 
-3 | Calculadora simple
+3 | [Calculadora simple](https://github.com/Apaulav/Nuclio/tree/main/3_calculadora_javascript)
 
-4 | Calculadora React
+4 | [Calculadora React](https://github.com/Apaulav/Nuclio/tree/main/4_calculadora_react)
 
 5 | [ToDo App API](https://github.com/Apaulav/Nuclio/tree/main/4_todoApp/todo-app-backend-Apaulav)
 
