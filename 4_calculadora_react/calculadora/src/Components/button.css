@@ -1,0 +1,76 @@
+.button {
+    margin: 0px 5px;
+    margin-top: 10px;
+    padding: 10px 10px;
+    box-shadow: 2px 2px #888888;
+}
+.button:focus {
+    width: 43px;
+    height: 43px;
+    box-shadow: none;
+}
+#clear:focus {
+    width: 152px;
+    height: 43px;
+    box-shadow: none;
+}
+#sum:focus {
+    width: 45px;
+    height: 95px;
+    box-shadow: none;
+}
+#zero {
+    grid-area: zer;
+    text-align: center;
+}
+#one {
+    grid-area: one;
+}
+#two {
+    grid-area: two;
+}
+#three {
+    grid-area: three;
+}
+#four {
+    grid-area: four;
+}
+#five {
+    grid-area: five;
+}
+#six {
+    grid-area: six;
+}
+#seven {
+    grid-area: seven;
+}
+#eight {
+    grid-area: eight;
+}
+#nine {
+    grid-area: nine;
+}
+#clear {
+    grid-area: clear;
+}
+/* #del {
+    grid-area: del;
+} */
+#equals {
+    grid-area: equals;
+}
+#sum {
+    grid-area: sum;
+}
+#rest {
+    grid-area: resta;
+}
+#mul {
+    grid-area: mul;
+}
+#div {
+    grid-area: div;
+}
+#decimal {
+    grid-area: decimal;
+}

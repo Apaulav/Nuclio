@@ -1,0 +1,74 @@
+.calc {
+    width: 10%;
+    display: grid;
+    grid-template-areas: "pantalla pantalla pantalla pantalla"
+    "clear clear del div"
+    "seven eight nine mul"
+    "four five six resta"
+    "one two three sum"
+    " zer decimal equals equals";
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+#display {
+    margin-bottom: 10px;
+    grid-area: pantalla;
+}
+.button {
+    margin: 5px;
+}
+#zero {
+    grid-area: zer;
+}
+#one {
+    grid-area: one;
+}
+#two {
+    grid-area: two;
+}
+#three {
+    grid-area: three;
+}
+#four {
+    grid-area: four;
+}
+#five {
+    grid-area: five;
+}
+#six {
+    grid-area: six;
+}
+#seven {
+    grid-area: seven;
+}
+#eight {
+    grid-area: eight;
+}
+#nine {
+    grid-area: nine;
+}
+#clear {
+    grid-area: clear;
+}
+#del {
+    grid-area: del;
+}
+#equals {
+    grid-area: equals;
+}
+#sum {
+    grid-area: sum;
+}
+#sub {
+    grid-area: resta;
+}
+#mul {
+    grid-area: mul;
+}
+#div {
+    grid-area: div;
+}
+#decimal {
+    grid-area: decimal;
+}

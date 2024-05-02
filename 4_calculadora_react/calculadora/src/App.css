@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+
+.read-the-docs {
+  color: #888;
+}
+
+.calculadora {
+  padding: 20px 10px;
+  border: 1px solid #000;
+  border-radius: 20px;
+  background-color: #fff;
+}
+.display {
+  width: 90%;
+  height: 35px;
+}
+
+.button-section {
+  display: grid;
+  grid-template-areas: "clear clear clear div"
+  "seven eight nine mul"
+  "four five six resta"
+  "one two three sum"
+  "decimal zer equals sum";
+  grid-template-columns: repeat(4, 55px);
+  grid-template-rows: auto;
+  margin-top: 10px;
+
+}
