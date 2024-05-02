@@ -1,0 +1,11 @@
+.listClass {
+    margin-right: 40px;
+    /* border: 1px solid #fff; */
+    background-color: #ff6666;
+    /* background-color: #218ec0; */
+    width: 35vh;
+}
+
+.list-title {
+    text-decoration: underline;
+}
